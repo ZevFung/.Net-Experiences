@@ -1,3 +1,6 @@
+
+1. [VS中快捷键快捷键一览表](VS中快捷键快捷键一览表.md)
+2. [.net问题汇总](.net问题汇总.md)
 ##前端插件
 1. [layim](http://layim.layui.com/)  
 	价格：收费   
