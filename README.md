@@ -18,7 +18,7 @@
 5. [frozenui](https://github.com/frozenui/frozenui)
     价格：免费  
 	描述：腾讯移动端UI框架。
-##框架
+##C#框架
 1. Log4Net  
 	描述：log4net库是Apache log4j框架在Microsoft .NET平台的实现，是一个帮助程序员将日志信息输出到各种目标（控制台、文件、数据库等）的工具
 
@@ -46,3 +46,10 @@
 1. [James Li](http://www.cnblogs.com/JamesLi2015/)  
 	描述：主要致力于中小企业离散制造业的ERP系统的实施、优化与二次开发。有着丰富的ERP开发和实施经验，主营产品Enterprise Solution包含进销存，工程，生产，财务模块，可有效地帮助企业进行营运策划、减低成本、如期付运和提高产品质量。
 2. [so_while](http://www.cnblogs.com/so9527/)
+3. [wuhuacong](http://www.cnblogs.com/wuhuacong/)
+
+###前端框架
+1. [metronic](http://www.cnblogs.com/JamesLi2015/)  
+	描述：Metronic是一套精美的响应式后台管理模板,基于强大的 Twitter Bootstrap 框架实现。Metronic 拥有简洁优雅的 Metro UI 风格界面,6 种颜色可选,76 个模板页面。
+2. [adminlte](http://www.cnblogs.com/so9527/)
+	描述：AdminLTE响应式Bootstrap后台模板是一款完全响应式后台管理模板，基于Bootstrap3框架，易定制模板。自适应多种屏幕分辨率，兼容PC端和手机移动端，内置了多个模板页面，包括仪表盘、邮箱、日历、锁屏、登录及注册、404错误、500错误等页面。
