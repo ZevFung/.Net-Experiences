@@ -27,5 +27,21 @@
 
 
 ##文章
-1. [ASP.NET SignalR 与 LayIM2.0 配合轻松实现Web聊天室 实战系列（不断更新中）](http://www.cnblogs.com/panzi/p/5767095.html)
+1. [ASP.NET SignalR 与 LayIM2.0 配合轻松实现Web聊天室 实战系列（不断更新中）](http://www.cnblogs.com/panzi/p/5767095.html)  
 	描述：利用ASP.NET SignalR技术与Layim前端im框架实现的一个简单的web聊天室的文章系列。
+
+
+##ORM
+1. [Dapper.NET——轻量ORM](https://github.com/StackExchange/dapper-dot-net)   
+	描述： Dapper是一款轻量级ORM工具（Github）。如果你在小的项目中，使用Entity Framework、NHibernate 来处理大数据访问及关系映射，未免有点杀鸡用牛刀。你又觉得ORM省时省力，这时Dapper 将是你不二的选择。
+2. [微型ORM：PetaPoco](https://github.com/toptensoftware/petapoco)  
+	描述：PetaPoco是一款适用于.Net 和Mono的微小、快速、单文件的微型ORM。
+3. [dos.orm]()
+	描述：Dos.ORM（原Hxj.Data）于2009年发布，并发布实体生成工具。在开发过程参考了多个ORM框架，特别是NBear，MySoft、EF、Dapper等。吸取了他们的一些精华，加入自己的新思想。该组件已在上百个成熟企业项目中应用
+4. [Chloe.ORM ](https://github.com/shuxinqin/Chloe)
+
+
+###博客
+1. [James Li](http://www.cnblogs.com/JamesLi2015/)  
+	描述：主要致力于中小企业离散制造业的ERP系统的实施、优化与二次开发。有着丰富的ERP开发和实施经验，主营产品Enterprise Solution包含进销存，工程，生产，财务模块，可有效地帮助企业进行营运策划、减低成本、如期付运和提高产品质量。
+2. [so_while](http://www.cnblogs.com/so9527/)
