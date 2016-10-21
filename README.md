@@ -21,6 +21,12 @@
 ##C#框架
 1. Log4Net  
 	描述：log4net库是Apache log4j框架在Microsoft .NET平台的实现，是一个帮助程序员将日志信息输出到各种目标（控制台、文件、数据库等）的工具
+2. http://www.webplus.org.cn/  开源的easyui界面
+https://shop107793859.taobao.com/?spm=2013.1.1000126.2.egbbZR
+http://git.oschina.net/gudufy/easyui-admin-template
+3. abp框架,ABP的全称是Asp.net boilerplate project(asp.net样板工程）https://github.com/aspnetboilerplate/aspnetboilerplate
+4. apworks框架
+5. 微软开源项目Orchard架构，Orchard是CMS系统
 
 ##开源项目
 1. [ASP.NET SignalR 与 LayIM2.0 配合轻松实现Web聊天室](https://github.com/fanpan26/LayIM_NetClient/)
@@ -47,6 +53,8 @@
 	描述：主要致力于中小企业离散制造业的ERP系统的实施、优化与二次开发。有着丰富的ERP开发和实施经验，主营产品Enterprise Solution包含进销存，工程，生产，财务模块，可有效地帮助企业进行营运策划、减低成本、如期付运和提高产品质量。
 2. [so_while](http://www.cnblogs.com/so9527/)
 3. [wuhuacong](http://www.cnblogs.com/wuhuacong/)
+4. http://www.cnblogs.com/farb/  abp框架学习
+5. http://www.cnblogs.com/mienreal/ 阳光铭睿——Web开发架构师的梦想之旅
 
 ###前端框架
 1. [metronic](http://www.cnblogs.com/JamesLi2015/)  
@@ -57,3 +65,68 @@
 
 ###即时通讯
 1.[容联云通讯](http://www.yuntongxun.com)
+
+###
+1. Aspose.Words.16.10.1  
+	Aspose.Words是一个商业.NET类库，可以使得应用程序处理大量的文件任务。
+	Aspose.Words支持Doc，Docx，RTF，HTML，OpenDocument，PDF，XPS，EPUB和其他格式。
+	使用Aspose.Words可以在不使用Microsoft.Word的情况下生成、修改、转换和打印文档。
+	Aspose.Words可以在没有安装Microsoft Office的机器上工作。所有的Aspose组件都是独立，不需要微软公司的授权。
+	简单点说，Aspose.Words可以脱离Microsoft Office的环境来执行一切对Doc的操作
+2. Aspose.Email.16.10.0  
+	Aspose.Email是用于轻松的开发 email 功能的应用程序的一组控件，基于 ASP.NET 的Web应用、Web服务和Windows 应用。
+	支持 Outlook PST, EML, MSG, and MHT 格式. 允许开发者直接与 SMTP, POP, FTP, 和 MS Exchange 服务器进行工作。
+	支持邮件合并、行事历、定制邮件标题和内容、嵌入文件等。
+3. jatoolsPrinter 免费版  
+	支持无预览直接打印
+	真正免费，不加水印，没有ip或域名限制，不限时间，兼容ie6+
+
+
+###网站
+1. [ApiView](https://apiview.com/)  
+	随着移动开发技术越来越成熟，客户端的小伙伴们开发效率已经严重超越了服务器端的开发效率。
+	在接口设计的问题上双方撕逼的情况也越来越多。为了解决这一痛点，ApiView横空处世！
+
+1. DevExpress  
+	DevExpress是 Developer Express的缩写，DevExpress是一家全球知名的控件开发公司。DevExpress 也特指此公司出品的控件集合或某系列控件或其中某控件
+
+1. https://muse.huaban.com/ 花瓣美思是花瓣网推出的一个高端设计服务经纪平台
+
+2. 腾讯花瓣
+
+搜狐快站、腾讯风铃和百度siteapp-快速移动建站工具
+
+
+
+
+
+1、DotNetFramework 
+.NET Reference Source 发布了 beta 版，可以在线浏览 .NET Framework 4.5.1 的源代码，并且可以通过配置，在 Visual Studio 2013 中调试 .NET Framework。
+项目地址：Reference Source
+2、Mvc
+MVC就不用说，很强大。
+项目网址：aspnet/Mvc 路 GitHub
+
+3、Entity Framework
+http://ADO.NET Entity Framework 是微软以 http://ADO.NET 为基础所发展出来的对象关系对应 (O/R Mapping) 解决方案，早期被称为 ObjectSpace，现已经包含在 Visual Studio 2008 Service Pack 1 以及 .NET Framework 3.5 Service Pack 1 中发表。
+项目网址：aspnet/EntityFramework 路 GitHub
+
+4、Enterprise Library
+Enterprise Library 是patterns & practices 小组为.NET Framework 开发一套企业库，目前最新版本为v5.0，支持.NET Framework 4.0，共包括9个Application Block，包括数据访问（Data Access Application Block）、异常管理（Exception Handling Application Block）、数据验证（Validation Application Block）等等，对企业应用开发非常有帮助，也非常实用。
+项目网址：Enterprise Library
+Codeplex：patterns & practices
+
+5、NopCommerce 
+nopcommerce是国外的一个高质量的开源b2c网站系统，基于EntityFramework4.0和MVC3.0，使用Razor模板引擎，有很强的插件机制，包括支付配送功能都是通过插件来实现的，基于xml的多语言版本，非常灵活的语言切换功能，包括在后台都能同时编辑产品的中英文属性，非常适合做外贸，优秀超前的程序架构，性能也非常强大，自定义的产品名称和分类又有很好的seo优化。综合能力远远高于国内的一些程序架构糟糕的.net商城程序，是二次开发和大型b2c架构的首选。3.0开始支持多店。
+项目网址：nopCommerce - ASP.NET Open-source Ecommerce Shopping Cart Solution
+
+7、Orchard
+Orchard是一个以微软为主导的开源CMS项目，它允许使用者在.Net平台上快速建立网站，并且提供扩展框架能够允许定制人员通过模块和主题等增加额外的内容，Orchard能够建设出复杂的内容管理系统，它提供了强大的模块化建设模式，通过组件的重用将系统建设成本最小化，帮助用户减少编码，从而吸引非技术人员的关注。
+项目地址：Orchard
+
+###书籍
+1. 实现领域驱动设计
+
+
+
+
