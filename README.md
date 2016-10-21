@@ -61,7 +61,7 @@ http://git.oschina.net/gudufy/easyui-admin-template
 	描述：Metronic是一套精美的响应式后台管理模板,基于强大的 Twitter Bootstrap 框架实现。Metronic 拥有简洁优雅的 Metro UI 风格界面,6 种颜色可选,76 个模板页面。
 2. [adminlte](http://www.cnblogs.com/so9527/)
 	描述：AdminLTE响应式Bootstrap后台模板是一款完全响应式后台管理模板，基于Bootstrap3框架，易定制模板。自适应多种屏幕分辨率，兼容PC端和手机移动端，内置了多个模板页面，包括仪表盘、邮箱、日历、锁屏、登录及注册、404错误、500错误等页面。
-
+3. [FineUI](http://fineui.com/)
 
 ###即时通讯
 1.[容联云通讯](http://www.yuntongxun.com)
