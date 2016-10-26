@@ -55,6 +55,7 @@ http://git.oschina.net/gudufy/easyui-admin-template
 3. [wuhuacong](http://www.cnblogs.com/wuhuacong/)
 4. http://www.cnblogs.com/farb/  abp框架学习
 5. http://www.cnblogs.com/mienreal/ 阳光铭睿——Web开发架构师的梦想之旅
+6. 小胡子哥  shttp://www.barretlee.com/entry/
 
 ###前端框架
 1. [metronic](http://www.cnblogs.com/JamesLi2015/)  
@@ -126,6 +127,30 @@ Orchard是一个以微软为主导的开源CMS项目，它允许使用者在.Net
 
 ###书籍
 1. 实现领域驱动设计
+
+
+
+###报表控件
+1. [finereport](http://www.finereport.com/)  
+	价格：收费
+	描述：专业B/S报表软件-Java/Web报表 
+
+
+
+###线上笔试
+1. 牛客网
+2. 赛码网
+
+###微信公众号
+很多修改简历的公众号呀，多看看实习生内参，乔布简历
+
+一些前端的公众号，比如前端圈，前端大全，前端早读课，还有关注一些大企业的分享公众号，比如360的奇舞周刊，腾讯的IMWeb前端团队，说不定发布者，以后就是你的同事哦。
+
+
+###编辑器
+1. 雷劈网的WEB表单设计器
+2. SoDiaoEditor https://github.com/tlzzu/SoDiaoEditor
+
 
 
 
