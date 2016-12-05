@@ -154,6 +154,12 @@ Orchard是一个以微软为主导的开源CMS项目，它允许使用者在.Net
 http://codepen.io/ 国外在线js编程
 
 
+[微软.net开源代码](https://referencesource.microsoft.com)
+
+[在线学习编程的网站](https://www.codewars.com/)
+
+#源码分享网站
+1. [雨点源码](http://www.mallhd.com)
 
 
 
