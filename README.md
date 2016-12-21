@@ -18,6 +18,16 @@
 5. [frozenui](https://github.com/frozenui/frozenui)
     价格：免费  
 	描述：腾讯移动端UI框架。
+6. [semantic-ui](http://www.semantic-ui.cn/)
+	价格：免费  
+	描述：UI框架。中文网站http://www.semantic-ui-cn.com/
+7. [rainyday.js](http://maroslaw.github.io/rainyday.js/)
+	价格：免费  
+	描述：雨点插件
+8. [Font Awesome](http://fontawesome.dashgame.com/)
+	价格：免费  
+	描述：一套绝佳的图标字体库和CSS框架
+
 ##C#框架
 1. Log4Net  
 	描述：log4net库是Apache log4j框架在Microsoft .NET平台的实现，是一个帮助程序员将日志信息输出到各种目标（控制台、文件、数据库等）的工具
@@ -31,7 +41,9 @@ http://git.oschina.net/gudufy/easyui-admin-template
 ##开源项目
 1. [ASP.NET SignalR 与 LayIM2.0 配合轻松实现Web聊天室](https://github.com/fanpan26/LayIM_NetClient/)
 	描述：利用ASP.NET SignalR技术与Layim前端im框架实现的一个简单的web聊天室，包括单聊，群聊，加好友，加群，好友搜索，管理，群组管理，好友权限设置等功能。涉及技术：ElasticSearch 搜索，支持各种条件搜索，效率高，速度快，稳准狠。Redis缓存，统计在线好友，登录token等RabbitMQ消息队列，发送消息通过队列降低数据库访问压力，或者延迟执行任务。ASP.NET MVC，UI架构。以及普通的三层架构等。CRUD当然其中的这些技术也是纯粹为了使用而使用，全当是入门级学习。
-
+2. [Chloe官网及基于NFine的后台源码毫无保留开放](http://www.cnblogs.com/so9527/p/6155177.html)
+3. [NFine-ASP.NET MVC+EF6+Bootstrap开发框架](http://www.nfine.cn/)
+4. [Fine官网](http://www.nfine.cn/)
 
 ##文章
 1. [ASP.NET SignalR 与 LayIM2.0 配合轻松实现Web聊天室 实战系列（不断更新中）](http://www.cnblogs.com/panzi/p/5767095.html)  
@@ -53,9 +65,11 @@ http://git.oschina.net/gudufy/easyui-admin-template
 	描述：主要致力于中小企业离散制造业的ERP系统的实施、优化与二次开发。有着丰富的ERP开发和实施经验，主营产品Enterprise Solution包含进销存，工程，生产，财务模块，可有效地帮助企业进行营运策划、减低成本、如期付运和提高产品质量。
 2. [so_while](http://www.cnblogs.com/so9527/)
 3. [wuhuacong](http://www.cnblogs.com/wuhuacong/)
-4. http://www.cnblogs.com/farb/  abp框架学习
-5. http://www.cnblogs.com/mienreal/ 阳光铭睿——Web开发架构师的梦想之旅
-6. 小胡子哥  shttp://www.barretlee.com/entry/
+4. [abp框架学习](http://www.cnblogs.com/farb/ ) 
+5. [阳光铭睿——Web开发架构师的梦想之旅](http://www.cnblogs.com/mienreal/) 
+6. [小胡子哥](http://www.barretlee.com/entry/)
+7. [so_while-博客园](http://www.cnblogs.com/so9527/)
+8. [黄林-博客园](http://www.cnblogs.com/huanglin/)
 
 ###前端框架
 1. [metronic](http://www.cnblogs.com/JamesLi2015/)  
@@ -160,6 +174,9 @@ http://codepen.io/ 国外在线js编程
 
 #源码分享网站
 1. [雨点源码](http://www.mallhd.com)
+2. [源码社区](http://www.xhymsq.com)
+3. [飞月专业源码商城](http://www.feeyue.net)
+4. [资源库](http://www.wxiis.com/)
 
 
 
