@@ -177,6 +177,15 @@ http://codepen.io/ 国外在线js编程
 2. [源码社区](http://www.xhymsq.com)
 3. [飞月专业源码商城](http://www.feeyue.net)
 4. [资源库](http://www.wxiis.com/)
+5. [吾爱源码](http://bbs.52codes.net/)
+6. [虎格网](http://www.hoogge.com/)
+
+
+#源码
+1. 销客多
+2. Himall
+3. Hishop移动云商城
+4. ECShop
 
 
 
