@@ -179,6 +179,7 @@ http://codepen.io/ 国外在线js编程
 4. [资源库](http://www.wxiis.com/)
 5. [吾爱源码](http://bbs.52codes.net/)
 6. [虎格网](http://www.hoogge.com/)
+7. [9秒社区](http://www.9miao.com/)
 
 
 #源码
