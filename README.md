@@ -189,7 +189,7 @@ http://codepen.io/ 国外在线js编程
 4. ECShop
 
 
-<<<<<<< HEAD
+
 # 
 1. [上海玄科](http://www.xuantech.cn/)网页三维展示产品
 
@@ -212,5 +212,5 @@ http://codepen.io/ 国外在线js编程
 grid++ FastReport   ActiveReport   Devexpress Report
 comnent Report
 echarts
->>>>>>> origin/master
+
 
