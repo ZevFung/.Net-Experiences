@@ -58,7 +58,7 @@ http://git.oschina.net/gudufy/easyui-admin-template
 3. [dos.orm]()
 	描述：Dos.ORM（原Hxj.Data）于2009年发布，并发布实体生成工具。在开发过程参考了多个ORM框架，特别是NBear，MySoft、EF、Dapper等。吸取了他们的一些精华，加入自己的新思想。该组件已在上百个成熟企业项目中应用
 4. [Chloe.ORM ](https://github.com/shuxinqin/Chloe)
-
+5. [sqlsugar](http://www.codeisbug.com/)
 
 ###博客
 1. [James Li](http://www.cnblogs.com/JamesLi2015/)  
@@ -189,10 +189,28 @@ http://codepen.io/ 国外在线js编程
 4. ECShop
 
 
+<<<<<<< HEAD
 # 
 1. [上海玄科](http://www.xuantech.cn/)网页三维展示产品
 
 #前端框架
 1. [Mint UI —— 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/#!/zh-cn)
 
+=======
+#插件
+1. [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
+	描述：js生成二维码
+2. [jquery-qrcode](https://larsjung.de/jquery-qrcode/)
+	描述：js生成二维码
+
+
+#
+1. [插件网站](https://larsjung.de/)
+
+#报表
+1. [fastreport]()
+grid++ FastReport   ActiveReport   Devexpress Report
+comnent Report
+echarts
+>>>>>>> origin/master
 
