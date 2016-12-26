@@ -180,7 +180,8 @@ http://codepen.io/ 国外在线js编程
 5. [吾爱源码](http://bbs.52codes.net/)
 6. [虎格网](http://www.hoogge.com/)
 7. [9秒社区](http://www.9miao.com/)
-
+8. [阿莫之家](http://www.0766city.com/)
+9. [分享吧|PHP源码ASP源码](http://www.zlei.net/)
 
 #源码
 1. 销客多
@@ -190,11 +191,13 @@ http://codepen.io/ 国外在线js编程
 
 
 
+
 # 
 1. [上海玄科](http://www.xuantech.cn/)网页三维展示产品
 
 #前端框架
 1. [Mint UI —— 基于 Vue.js 的移动端组件库](http://mint-ui.github.io/#!/zh-cn)
+2. [dhx](https://dhtmlx.com/)
 
 =======
 #插件
@@ -202,6 +205,8 @@ http://codepen.io/ 国外在线js编程
 	描述：js生成二维码
 2. [jquery-qrcode](https://larsjung.de/jquery-qrcode/)
 	描述：js生成二维码
+
+
 
 
 #
@@ -212,5 +217,13 @@ http://codepen.io/ 国外在线js编程
 grid++ FastReport   ActiveReport   Devexpress Report
 comnent Report
 echarts
+
+#微信编辑器
+1. [小蚂蚁微信编辑器](http://www.xmyeditor.com/#)
+2. [我们宅编辑](http://v.unihi.cn/)
+3. [构思编辑器](http://www.gorse.com/)
+4. [51排版](http://51paiban.com/)
+5. [91微信编辑器](http://www.91join.com/edit/)
+6. [秀米的图文排版](http://xiumi.us/#/)
 
 
