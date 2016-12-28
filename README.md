@@ -231,4 +231,33 @@ echarts
 #
 1. [koa-grace:一个基于koa的node多应用MVC框架]
 
+#微信开源
+1. [微信又要开源组件了，这次叫Mars](https://github.com/Tencent/mars)
+	描述：微信官方的终端基础组件
+2. [微信最近开源的热修复方案tinker](https://github.com/Tencent/tinker)
+
+
+#阿里开源
+1. [阿里开源的一个Android热补丁框架](https://github.com/alibaba/AndFix)
+
+
+#现在的热修复方式有大致的三种：
+
+1.dexposed githubhttps://github.com/alibaba/dexposed
+
+2.andfix githubhttps://github.com/alibaba/AndFix
+
+3.bsdiff http://blog.csdn.net/lazyer_dog/article/details/47173013
+
+#腾讯
+1. [腾讯DEV CLUB](http://dev.qq.com/)
+2. [腾讯bugly](http://www.cnblogs.com/bugly/)
+
+
+#PHP版微信开发参考
+　　非常强大的微信公众平台开发框架推荐中有官方和第三方开发者提供的丰富的插件，是免费并且成熟的框架，更多的信息可以点击这里：
+
+ •微擎：http://www.we7.cc/
+ •微笑：http://www.sylai.com/
+ •weiphp：http://www.weiphp.cn/
 
