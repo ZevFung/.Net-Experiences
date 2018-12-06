@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\bin\Debug\netcoreapp2.2\Ron.UploadFile.deps.json
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\bin\Debug\netcoreapp2.2\Ron.UploadFile.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\bin\Debug\netcoreapp2.2\Ron.UploadFile.runtimeconfig.dev.json
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\bin\Debug\netcoreapp2.2\Ron.UploadFile.dll
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\bin\Debug\netcoreapp2.2\Ron.UploadFile.pdb
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.RazorAssemblyInfo.cache
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.RazorAssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.dll
+C:\Users\Administrator\Source\Repos\Ron.UploadFile\Ron.UploadFile\obj\Debug\netcoreapp2.2\Ron.UploadFile.pdb
