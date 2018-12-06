@@ -1,0 +1,25 @@
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.csprojResolveAssemblyReference.cache
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\obj\Debug\Demo.FrmMain.resources
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.Properties.Resources.resources
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.csproj.GenerateResource.Cache
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.exe.config
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.exe
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.pdb
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\bin\Debug\Html2Article.dll
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\bin\Debug\Html2Article.pdb
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.exe
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\Html2Article\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.exe.config
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.exe
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\Html2Article\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.exe.config
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.exe
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\bin\Debug\Html2Article.dll
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\bin\Debug\Html2Article.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.csprojResolveAssemblyReference.cache
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Demo.FrmMain.resources
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.Properties.Resources.resources
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.csproj.GenerateResource.Cache
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.exe
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.pdb

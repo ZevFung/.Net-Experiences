@@ -1,0 +1,8 @@
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2Article\bin\Debug\Html2Article.dll
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2Article\bin\Debug\Html2Article.pdb
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2Article\obj\Debug\Html2Article.dll
+G:\git开源项目\研究的代码和框架\创意\Html2Article\Html2Article\obj\Debug\Html2Article.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2Article\bin\Debug\Html2Article.dll
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2Article\bin\Debug\Html2Article.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2Article\obj\Debug\Html2Article.dll
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2Article\obj\Debug\Html2Article.pdb
