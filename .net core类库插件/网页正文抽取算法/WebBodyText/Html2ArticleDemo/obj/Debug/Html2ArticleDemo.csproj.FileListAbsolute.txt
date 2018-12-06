@@ -23,3 +23,6 @@ G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块�
 G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.csproj.GenerateResource.Cache
 G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.exe
 G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\基于行块分布函数的通用网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.pdb
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\网页正文抽取算法\WebBodyText\Html2ArticleDemo\bin\Debug\Html2ArticleDemo.exe.config
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.exe
+G:\个人文件夹\MyGithub\.Net-Experiences\.net core类库插件\网页正文抽取算法\WebBodyText\Html2ArticleDemo\obj\Debug\Html2ArticleDemo.pdb
